@@ -275,6 +275,3 @@ Through this project, I gained practical experience in:
 - Provide full-length reading content for legally available books.
 - Add a personalized book recommendation feature.
 
-
-**Project:** Goodreads – Flutter Book Application
-
